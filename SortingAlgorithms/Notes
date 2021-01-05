@@ -1,0 +1,18 @@
+Stability in Sorting Algorithms:
+    Stable sorting algorithm preserve the relative order of equal elements, while unstable sorting algorithm dont.
+    in other words, stable sorting maintains the position of two equal elements relative to one another
+
+    Example:
+            Unsorted List: 2 4 1 7 4 9
+
+            Stable Sort: 1 2 4 4 7 9
+                             A B
+                   Because the order of equal elements is maintained in the sorted list.
+            Unstable Sort: 1 2 4 4 7 9
+                               B A
+                   Because the order of equal elements is not maintained in the sorted list.
+
+
+
+
+SelectionSort Algorithm:
